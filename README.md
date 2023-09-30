@@ -1,2 +1,3 @@
-# mern_interntask2
-website link: https://abhishekkumargithub.github.io/mern_interntask2/
+Link:- https://singhxabhijeet.github.io/ETHNUS_BS_JS/
+
+All the tasks assigned in the Ethnus MERN Internship will be uploaded here.
